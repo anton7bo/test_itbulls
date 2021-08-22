@@ -11,8 +11,9 @@ type
 
 implementation
 
-procedure TClass1.Test1;
+procedure TClass1.Test1; //comment 
 begin
+  test;
   Process;
 end;
 
