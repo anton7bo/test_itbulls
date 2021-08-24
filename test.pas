@@ -21,6 +21,11 @@ end;
 procedure TClass1.DiscCalc; 
 begin
   crs.DiscCalc.Process;
+
+
+
+
+
 end;
 
 end
